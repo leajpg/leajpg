@@ -1,5 +1,12 @@
-- ㋡ I'm Lea  
-- ✰ I’m interested in front end web developement and pixel art!
-- 𓋼𓍊 Recently completed a Professional Certificate in Coding thorugh MITxEmeritus
-- ➪ Email: [LeaJpg@proton.me](mailto:LeaJpg@proton.me)
+![Email](https://img.shields.io/badge/Email-LeaJpg%40proton.me-%23efaefc?style=flat-square&logo=protonmail&logoColor=white&link=mailto%3Aleajpg%40protonmail.me)
+![Website](https://img.shields.io/badge/Website-LeaJpg.dev-pink?style=flat-square&link=https%3A%2F%2Fleajpg.dev)
+
+- I'm Lea (she/her) I like web development and pixel art.
+
+- I recently completed a [Professional Certificate in Coding thorugh MITxEmeritus](https://certificates.emeritus.org/b026522d-3f48-4541-8c6a-9c2b5c505b82#gs.8phabv).
+
+- I'm currently learning Python! 
+
+![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github&link=https%3A%2F%2Fgithub.com%2Fleajpg)
+![Linkedin](https://img.shields.io/badge/Linkedin-%238dc4e3?style=flat-square&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fleaciarcia%2F)
 
